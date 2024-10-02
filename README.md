@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Devanshu shukla 
 - 👀 I’m interested in Cloud ai and ml
-- 🌱 I’m currently learning DSA along with 
+- 🌱 I’m currently learning DSA along with webdevelopment
 - 💞️ I’m looking to collaborate on python project 
 - 📫 How to reach me on LindkedIn
 
